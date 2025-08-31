@@ -17,6 +17,7 @@ import com.demo.moneytracker.entities.User;
 import com.demo.moneytracker.services.TransactionService;
 import com.demo.moneytracker.services.UserService;
 
+// This is a DashboardController
 @Controller
 @RequestMapping("/dashboard")
 public class DashboardController {
