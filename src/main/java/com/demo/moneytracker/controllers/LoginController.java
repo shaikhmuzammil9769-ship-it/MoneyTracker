@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.demo.moneytracker.entities.User;
 import com.demo.moneytracker.services.UserService;
 
+// This is a Login Controller
 @Controller
 @RequestMapping("/login")
 public class LoginController {
